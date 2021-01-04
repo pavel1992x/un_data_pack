@@ -1,0 +1,36 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StickAltCraft",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stick_alt_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "un_data",
+    "modName": "un data",
+    "version": "1.0.0",
+    "author": "pavel1992x, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.15.x",
+    "modElementsPackage": "net.mcreator.undata",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
