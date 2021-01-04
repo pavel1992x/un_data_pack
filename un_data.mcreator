@@ -27,6 +27,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stick_alt_craft_3"
+    },
+    {
+      "name": "StoneCraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_craft"
+    },
+    {
+      "name": "FireCraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_craft"
     }
   ],
   "variable_elements": [],
