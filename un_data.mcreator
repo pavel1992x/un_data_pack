@@ -9,6 +9,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stick_alt_craft"
+    },
+    {
+      "name": "StickAltCraft2",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stick_alt_craft_2"
+    },
+    {
+      "name": "StickAltCraft3",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stick_alt_craft_3"
     }
   ],
   "variable_elements": [],
